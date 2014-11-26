@@ -7,5 +7,5 @@ import org.junit.runners.Suite.SuiteClasses;
 @RunWith(Suite.class)
 @SuiteClasses({ ConcatenateTest.class, MultiplyTest.class })
 public class AllTests {
-
+	System.out.println("Revert Pull Request");
 }
